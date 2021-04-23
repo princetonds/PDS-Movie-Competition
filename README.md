@@ -10,6 +10,8 @@ sample_submission.csv is an example of what your final submission to EvalAI shou
 
 # Helpful Tips
 
+**Take a look at the starter notebook we have provided to get an idea of how to process the data and start building your models!**
+
 ### Helpful Resources for Models:
 
 https://scikit-learn.org/stable/modules/linear_model.html   
